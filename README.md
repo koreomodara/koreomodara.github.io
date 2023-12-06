@@ -1,3 +1,3 @@
 # koreomodara.github.io
 
-welcome to my github portfolio! you can access all my current code through their zip files :3
+welcome to my GitHub portfolio! you can access all my current code projects through their zip files :3
